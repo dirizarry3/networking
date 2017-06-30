@@ -1,0 +1,9 @@
+Daniel Irizarry
+
+Pretty much just a list of wrapped networking functions that
+provide more descriptive function names and handle the error
+checking inside functions instead of being placed into main code.
+
+I Also wrote this because Josh sucks.
+
+**This is not the current version though and will need updating.
